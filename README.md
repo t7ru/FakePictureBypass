@@ -9,18 +9,19 @@ First, you obviously need to install Filza to your device which you most likely 
 
 
 ## Step 1: Get the file of a photo you want to use
-
 If you have already have prepared an image in Filza then you can skip this step.
 
 First head into your Photos app, find an image you want and tap on the share button.
 
-<img src="TutorialAssets/4.png" height="500px">
-<img src="TutorialAssets/5.png" height="500px">
+| 1 | 2 |
+| ------------- | ------------- |
+| <img src="TutorialAssets/4.png" height="500px">  | <img src="TutorialAssets/5.png" height="500px">  |
 
 Then, you need to scroll down and tap on "Save to Filza" and "Save"
 
-<img src="TutorialAssets/3.png" height="500px">
-<img src="TutorialAssets/1.png" height="500px">
+| 3 | 4 |
+| ------------- | ------------- |
+| <img src="TutorialAssets/3.png" height="500px">  | <img src="TutorialAssets/1.png" height="500px">  |
 
 You can leave your Photos now and open the Filza app, it should land you on where it saved the file.
 
@@ -29,12 +30,17 @@ You can leave your Photos now and open the Filza app, it should land you on wher
 Now copy or move the file you want. Filza should put the file into its clipboard.
 
 ## Step 2: Move the photo
+Now head to: <pre>/var/mobile/Documents/</pre>
+| 1 | 2 |
+| ------------- | ------------- |
+| <img src="TutorialAssets/10.png" height="500px">  | <img src="TutorialAssets/9.png" height="500px">  |
 
-Now head to: <pre>/var/mobile/Documents</pre>
-<img src="TutorialAssets/10.png" height="500px">
-<img src="TutorialAssets/9.png" height="500px">
-<img src="TutorialAssets/8.png" height="500px">
-<img src="TutorialAssets/7.png" height="500px">
+| 3 | 4 |
+| ------------- | ------------- |
+| <img src="TutorialAssets/8.png" height="500px">  | <img src="TutorialAssets/7.png" height="500px">  |
+
+And finally...
+
 <img src="TutorialAssets/6.png" height="500px">
 
 When inside the Documents folder, paste the file inside your clipboard here.
@@ -48,10 +54,13 @@ Remove that file or rename it to something else, then rename the file you pasted
 
 <i>If you don't have it then it's fine, you can just rename the file you pasted and not do anything else.</i>
 
-<img src="TutorialAssets/12.png" height="500px">
-<img src="TutorialAssets/13.png" height="500px">
-<img src="TutorialAssets/14.png" height="500px">
-<img src="TutorialAssets/15.png" height="500px">
+| 1 | 2 |
+| ------------- | ------------- |
+| <img src="TutorialAssets/12.png" height="500px">  | <img src="TutorialAssets/13.png" height="500px">  |
+
+| 3 | 4 |
+| ------------- | ------------- |
+| <img src="TutorialAssets/14.png" height="500px">  | <img src="TutorialAssets/15.png" height="500px">  |
 
 ## Step 4: Tadaa!
 Go to your FakePicture app, and you should see the image replaced.
