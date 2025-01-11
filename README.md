@@ -14,10 +14,11 @@ If you have already have prepared an image in Filza then you can skip this step.
 
 First head into your Photos app, find an image you want and tap on the share button.
 
-Then, you need to scroll down and tap on "Save to Filza" and "Save."
-
 <img src="TutorialAssets/4.png" height="500px">
 <img src="TutorialAssets/5.png" height="500px">
+
+Then, you need to scroll down and tap on "Save to Filza" and "Save"
+
 <img src="TutorialAssets/3.png" height="500px">
 <img src="TutorialAssets/1.png" height="500px">
 
