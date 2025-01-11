@@ -1,17 +1,13 @@
-TARGET := iphone:clang:latest:6.0
-ARCHS = arm64
-INSTALL_TARGET_PROCESSES = FakePicture
+TARGET := iphone:clang:latest:12.2
+INSTALL_TARGET_PROCESSES = SpringBoard
+
 
 include $(THEOS)/makefiles/common.mk
 
-TOOL_NAME = FakePictureBypass
+TWEAK_NAME = FakePictureBypass
 
-FakePictureBypass_FILES = t71XPC.m t71XPCServiceDelegate.m main.m
-FakePictureBypass_CFLAGS = -fobjc-arc
-FakePictureBypass_CODESIGN_FLAGS = -Sentitlements.plist
-FakePictureBypass_INSTALL_PATH = /usr/local/bin
+FakePictureBypass_FILES = $(shell find Sources/FakePictureBypass -name '*.swift') $(shell find Sources/FakePictureBypassC -name '*.m' -o -name '*.c' -o -name '*.mm' -o -name '*.cpp')
+FakePictureBypass_SWIFTFLAGS = -ISources/FakePictureBypassC/include
+FakePictureBypass_CFLAGS = -fobjc-arc -ISources/FakePictureBypassC/include
 
-include $(THEOS_MAKE_PATH)/tool.mk
-
-after-FakePictureBypass-stage::	
-	$(ECHO_NOTHING)$(FAKEROOT) chown root:wheel $(THEOS_STAGING_DIR)/Library/LaunchDaemons/com.t7rutweaks.fakepicturebypass.plist$(ECHO_END)
+include $(THEOS_MAKE_PATH)/tweak.mk

@@ -1,0 +1,4 @@
+module FakePictureBypassC {
+    umbrella "."
+    export *
+}
