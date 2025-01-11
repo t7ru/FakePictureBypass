@@ -6,4 +6,4 @@ Description: An awesome Orion tweak!
 Maintainer: t7ru
 Author: t7ru
 Section: Tweaks
-Depends: ${ORION}, firmware (>= 12.2)
+Depends: ${ORION}, firmware (>= 15.0)
