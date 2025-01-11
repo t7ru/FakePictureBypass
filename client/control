@@ -1,0 +1,9 @@
+Package: com.t7rutweaks.fakepicturebypass-client
+Name: XPC Client
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An even more awesome XPC service client!
+Maintainer: t7ru
+Author: t7ru
+Section: System
+Tag: role::hacker
