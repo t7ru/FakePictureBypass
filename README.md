@@ -15,13 +15,13 @@ First head into your Photos app, find an image you want and tap on the share but
 
 | 1 | 2 |
 | ------------- | ------------- |
-| <img src="TutorialAssets/4.png" height="500px">  | <img src="TutorialAssets/5.png" height="500px">  |
+| <img src="TutorialAssets/4.png">  | <img src="TutorialAssets/5.png">  |
 
 Then, you need to scroll down and tap on "Save to Filza" and "Save"
 
 | 3 | 4 |
 | ------------- | ------------- |
-| <img src="TutorialAssets/3.png" height="500px">  | <img src="TutorialAssets/1.png" height="500px">  |
+| <img src="TutorialAssets/3.png">  | <img src="TutorialAssets/1.png">  |
 
 You can leave your Photos now and open the Filza app, it should land you on where it saved the file.
 
@@ -33,11 +33,11 @@ Now copy or move the file you want. Filza should put the file into its clipboard
 Now head to: <pre>/var/mobile/Documents/</pre>
 | 1 | 2 |
 | ------------- | ------------- |
-| <img src="TutorialAssets/10.png" height="500px">  | <img src="TutorialAssets/9.png" height="500px">  |
+| <img src="TutorialAssets/10.png">  | <img src="TutorialAssets/9.png">  |
 
 | 3 | 4 |
 | ------------- | ------------- |
-| <img src="TutorialAssets/8.png" height="500px">  | <img src="TutorialAssets/7.png" height="500px">  |
+| <img src="TutorialAssets/8.png">  | <img src="TutorialAssets/7.png">  |
 
 And finally...
 
@@ -56,16 +56,16 @@ Remove that file or rename it to something else, then rename the file you pasted
 
 | 1 | 2 |
 | ------------- | ------------- |
-| <img src="TutorialAssets/12.png" height="500px">  | <img src="TutorialAssets/13.png" height="500px">  |
+| <img src="TutorialAssets/12.png">  | <img src="TutorialAssets/13.png">  |
 
 | 3 | 4 |
 | ------------- | ------------- |
-| <img src="TutorialAssets/14.png" height="500px">  | <img src="TutorialAssets/15.png" height="500px">  |
+| <img src="TutorialAssets/14.png">  | <img src="TutorialAssets/15.png" height="500px">  |
 
 ## Step 4: Tadaa!
 Go to your FakePicture app, and you should see the image replaced.
 For good measure, tap on the "Mirror" button twice so that it clears any cache.
 
-<img src="TutorialAssets/16.png" height="500px">
+<img src="TutorialAssets/16.png">
 
 Have fun!
