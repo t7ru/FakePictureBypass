@@ -60,7 +60,7 @@ Remove that file or rename it to something else, then rename the file you pasted
 
 | 3 | 4 |
 | ------------- | ------------- |
-| <img src="TutorialAssets/14.png">  | <img src="TutorialAssets/15.png" height="500px">  |
+| <img src="TutorialAssets/14.png">  | <img src="TutorialAssets/15.png">  |
 
 ## Step 4: Tadaa!
 Go to your FakePicture app, and you should see the image replaced.
