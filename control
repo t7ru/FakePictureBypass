@@ -1,7 +1,7 @@
 Package: com.t7ru.fakepicturebypass
 Name: FakePictureBypass
 Version: 0.0.1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Description: An awesome Orion tweak!
 Maintainer: t7ru
 Author: t7ru
