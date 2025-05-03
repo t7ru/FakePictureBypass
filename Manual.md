@@ -10,17 +10,17 @@ First head into your Photos app, find an image you want and tap on the share but
 
 | 1 | 2 |
 | ------------- | ------------- |
-| <img src="TutorialAssets/4.png">  | <img src="TutorialAssets/5.png">  |
+| <img src="TutorialAssets/4.png" width="300">  | <img src="TutorialAssets/5.png" width="300">  |
 
 Then, you need to scroll down and tap on "Save to Filza" and "Save"
 
 | 3 | 4 |
 | ------------- | ------------- |
-| <img src="TutorialAssets/3.png">  | <img src="TutorialAssets/1.png">  |
+| <img src="TutorialAssets/3.png" width="300">  | <img src="TutorialAssets/1.png" width="300">  |
 
 You can leave your Photos now and open the Filza app, it should land you on where it saved the file.
 
-<img src="TutorialAssets/2.png" height="500px">
+<img src="TutorialAssets/2.png" width="300">
 
 Now copy or move the file you want. Filza should put the file into its clipboard.
 
@@ -28,22 +28,22 @@ Now copy or move the file you want. Filza should put the file into its clipboard
 Now head to: <pre>/var/mobile/Documents/</pre>
 | 1 | 2 |
 | ------------- | ------------- |
-| <img src="TutorialAssets/10.png">  | <img src="TutorialAssets/9.png">  |
+| <img src="TutorialAssets/10.png" width="300">  | <img src="TutorialAssets/9.png" width="300">  |
 
 | 3 | 4 |
 | ------------- | ------------- |
-| <img src="TutorialAssets/8.png">  | <img src="TutorialAssets/7.png">  |
+| <img src="TutorialAssets/8.png" width="300">  | <img src="TutorialAssets/7.png" width="300">  |
 
 And finally...
 
-<img src="TutorialAssets/6.png" height="500px">
+<img src="TutorialAssets/6.png" width="300">
 
 When inside the Documents folder, paste the file inside your clipboard here.
 
 ## Step 3: Replace the locked photo
 In the directory, there should be a file named: <pre>net.joebruce.FakePicture.fkimg.png</pre>
 
-<img src="TutorialAssets/11.png" height="500px">
+<img src="TutorialAssets/11.png" width="300">
 
 Remove that file or rename it to something else, then rename the file you pasted earlier to it.
 
@@ -51,16 +51,16 @@ Remove that file or rename it to something else, then rename the file you pasted
 
 | 1 | 2 |
 | ------------- | ------------- |
-| <img src="TutorialAssets/12.png">  | <img src="TutorialAssets/13.png">  |
+| <img src="TutorialAssets/12.png" width="300">  | <img src="TutorialAssets/13.png" width="300">  |
 
 | 3 | 4 |
 | ------------- | ------------- |
-| <img src="TutorialAssets/14.png">  | <img src="TutorialAssets/15.png">  |
+| <img src="TutorialAssets/14.png" width="300">  | <img src="TutorialAssets/15.png" width="300">  |
 
 ## Step 4: Tadaa!
 Go to your FakePicture app, and you should see the image replaced.
 For good measure, tap on the "Mirror" button twice so that it clears any cache.
 
-<img src="TutorialAssets/16.png">
+<img src="TutorialAssets/16.png" width="300">
 
 Have fun!
